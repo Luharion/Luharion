@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [rebootcyber.xyz](rebootcyber.xyz)
 
-- 💬 Ask me about **bash, GNU/Linux, and Anything else you if on my blog**
+- 💬 Ask me about **bash, GNU/Linux, and Anything else you find on my blog**
 
 - 📫 How to reach me **liam@rebootcyber.xyz**
 
