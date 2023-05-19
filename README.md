@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liam Decareaux</h1>
+<h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">I am a Linux enthusiast, FOSS/FLOSS advocate, privacy and freedom proponent, and a self-taught techy</h3>
 
 - 🌱 I’m currently learning **GO, Python, and Spanish**
